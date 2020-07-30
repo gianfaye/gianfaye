@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm a frontend engineer and UX designer from the Philippines.
+
+💻 Check out my website: ✨[www.gianfaye.com](https://gianfaye.com)✨ 
+
+💬 Ask me about anything: ✨[hello@gianfaye.com](mailto:hello@gianfaye)✨
 
 <!--
 **gianfaye/gianfaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
